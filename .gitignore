@@ -1,0 +1,8 @@
+# Ignorar entornos virtuales en cualquier subcarpeta
+**/.venv/
+**/__pycache__/
+**/.python-version
+
+# Ignorar archivos de datos pesados
+**/data/*.csv
+**/data/*.gz
