@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignorar entornos virtuales en cualquier subcarpeta
 **/.venv/
 **/__pycache__/
@@ -6,3 +7,11 @@
 # Ignorar archivos de datos pesados
 **/data/*.csv
 **/data/*.gz
+=======
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.csv
+data/*.gz
+>>>>>>> 8f46569dfaaba3f7b1b02db19269d9f1346a4977
